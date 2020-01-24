@@ -84,11 +84,11 @@ Full responsive for all mobile phones and tablets
 -Make in the console :
 -    ```cd Abstract-v1-react```
 -    ``` npm i```
--     or 
--     ```npm install``` 
--     for install the dependencies
--    and 
+or 
+-      npm install 
+for install the dependencies
+and 
 -    ```npm start```
--    to start project for personalisation.
+to start project for personalisation.
 
 enjoy!!!
