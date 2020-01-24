@@ -83,11 +83,8 @@ Full responsive for all mobile phones and tablets
 -Clone this repo (https://github.com/rodolphe37/Abstract-v1-react.git)
 -Make in the console :
 -    ```cd Abstract-v1-react```
--    ``` npm i```
-or 
--      npm install 
-for install the dependencies
-and 
+-    ``` npm i``` or ```npm install ```
+for install the dependencies and 
 -    ```npm start```
 to start project for personalisation.
 
